@@ -1,0 +1,1001 @@
+city,country,latitude,longitude,climate
+Toronto_4329,Canada,43.9348,-79.6286,Temperate
+Tromsø_6722,Norway,70.1306,20.364,Polar
+Yakutsk_6183,Russia,62.8017,129.925,Continental
+Los Angeles_3124,USA,34.8664,-117.1119,Temperate
+São Paulo_4365,Brazil,-24.9729,-45.8367,Arid
+Lhasa_2650,China,28.3847,89.8769,Arid
+Sydney_5586,Australia,-32.9842,152.589,Temperate
+Buenos Aires_9172,Argentina,-35.8283,-59.8137,Temperate
+Chennai_9815,India,12.5076,80.135,Tropical
+New York_1537,USA,39.2773,-74.4254,Temperate
+Beijing_6515,China,40.1316,115.4397,Temperate
+Yellowknife_8933,Canada,62.0051,-114.4667,Continental
+Delhi_7833,India,29.6617,78.3061,Arid
+Oslo_9575,Norway,60.1051,10.9457,Continental
+Los Angeles_1007,USA,33.1615,-118.5241,Temperate
+Moscow_1423,Russia,55.3208,37.4849,Continental
+Sydney_2409,Australia,-34.9605,149.8521,Temperate
+Cairo_2076,Egypt,30.3471,30.6497,Temperate
+Delhi_2488,India,30.0894,77.377,Temperate
+Ushuaia_9645,Argentina,-55.5104,-68.1203,Continental
+Sydney_3614,Australia,-32.4171,150.314,Temperate
+Buenos Aires_5609,Argentina,-35.2042,-58.2115,Temperate
+Aswan_3139,Egypt,23.1237,32.0479,Arid
+Beijing_8282,China,40.5059,117.6409,Temperate
+Yakutsk_9765,Russia,62.74,128.184,Continental
+Toronto_1770,Canada,43.5563,-79.3868,Temperate
+Yellowknife_6975,Canada,61.3708,-113.3782,Continental
+Lhasa_3104,China,28.565,91.2654,Arid
+São Paulo_6985,Brazil,-22.694,-45.9749,Arid
+Manaus_5553,Brazil,-3.6277,-59.4478,Tropical
+São Paulo_3166,Brazil,-24.5236,-45.4284,Arid
+Sydney_6700,Australia,-32.9185,151.1201,Temperate
+Manaus_2396,Brazil,-2.438,-58.9618,Tropical
+Alice Springs_9989,Australia,-23.5145,135.0958,Arid
+Alice Springs_9269,Australia,-22.5171,133.7264,Arid
+Beijing_7552,China,39.541,115.4531,Temperate
+Buenos Aires_9805,Argentina,-33.3289,-56.9601,Temperate
+Ushuaia_9186,Argentina,-54.4796,-68.5002,Continental
+Moscow_6465,Russia,55.0262,38.3911,Continental
+Tromsø_2834,Norway,70.6073,17.6954,Polar
+Ushuaia_7185,Argentina,-54.4643,-67.4183,Continental
+Sydney_6443,Australia,-35.2746,151.5816,Temperate
+Chennai_5285,India,13.467,81.1536,Tropical
+Lhasa_4229,China,28.6591,89.9854,Arid
+Aswan_2597,Egypt,24.4085,34.2544,Arid
+Aswan_6094,Egypt,22.8309,33.0803,Arid
+Ushuaia_2404,Argentina,-54.6479,-67.2201,Continental
+New York_3561,USA,39.6647,-74.7395,Temperate
+Lhasa_5810,China,30.2386,91.1754,Temperate
+Manaus_2643,Brazil,-1.9417,-60.3082,Tropical
+Delhi_2594,India,27.2329,76.8053,Arid
+Oslo_4196,Norway,60.9628,10.6122,Continental
+Beijing_4156,China,39.8688,115.3077,Temperate
+Oslo_9158,Norway,58.566,11.0425,Continental
+Cairo_9828,Egypt,30.0239,30.7485,Temperate
+Ushuaia_3257,Argentina,-54.7942,-69.7411,Continental
+São Paulo_3811,Brazil,-24.2572,-47.0958,Arid
+Los Angeles_1915,USA,33.6332,-117.3679,Temperate
+Los Angeles_2046,USA,33.9792,-117.0764,Temperate
+Moscow_7429,Russia,56.3303,37.4999,Continental
+Tromsø_2797,Norway,69.8772,18.3358,Polar
+São Paulo_7115,Brazil,-22.572,-46.3471,Arid
+Ushuaia_1396,Argentina,-56.0191,-67.5474,Continental
+Delhi_8008,India,27.6276,78.079,Arid
+Yakutsk_1458,Russia,63.3558,129.8611,Continental
+Buenos Aires_7948,Argentina,-33.9885,-59.8746,Temperate
+Moscow_1366,Russia,56.4057,38.5689,Continental
+Manaus_5259,Brazil,-2.3098,-59.0919,Tropical
+Delhi_9073,India,27.7748,78.0101,Arid
+Yellowknife_2396,Canada,63.5049,-114.0346,Continental
+Buenos Aires_3025,Argentina,-34.6533,-59.4241,Temperate
+Lhasa_2080,China,28.4752,90.1992,Arid
+New York_8577,USA,39.9128,-73.7449,Temperate
+Yellowknife_5461,Canada,63.6768,-114.4846,Continental
+New York_5851,USA,39.4439,-72.9171,Temperate
+Moscow_7176,Russia,55.0322,37.0507,Continental
+Moscow_2198,Russia,56.2702,37.9598,Continental
+Sydney_9779,Australia,-32.6312,150.0437,Temperate
+Chennai_4204,India,14.4282,79.5993,Tropical
+Los Angeles_4735,USA,35.0778,-118.3642,Temperate
+Moscow_8227,Russia,56.5511,36.967,Continental
+Toronto_4786,Canada,44.0702,-77.9723,Temperate
+Buenos Aires_1502,Argentina,-36.0646,-57.9916,Temperate
+Tromsø_2351,Norway,71.0464,20.4249,Polar
+Delhi_1771,India,28.5176,78.6147,Arid
+Ushuaia_1064,Argentina,-55.9697,-69.5117,Continental
+Buenos Aires_9875,Argentina,-33.1806,-59.0358,Temperate
+Manaus_1681,Brazil,-4.5613,-58.9486,Tropical
+Lhasa_3550,China,28.8837,90.8356,Arid
+New York_8853,USA,39.9627,-73.1542,Temperate
+Chennai_9334,India,12.3106,79.7905,Tropical
+Alice Springs_2636,Australia,-22.5084,132.9299,Arid
+Ushuaia_9120,Argentina,-55.4566,-68.4262,Continental
+Delhi_5437,India,28.9022,76.2178,Arid
+Delhi_8353,India,29.6697,76.9309,Arid
+Cairo_5779,Egypt,29.1977,32.377,Arid
+Delhi_1296,India,28.6185,77.5013,Arid
+Yellowknife_9403,Canada,63.3843,-114.0493,Continental
+Oslo_6844,Norway,59.9881,11.0078,Continental
+Beijing_8957,China,38.4573,117.8866,Temperate
+Oslo_7711,Norway,59.4546,9.8312,Continental
+Los Angeles_7413,USA,35.3315,-119.7325,Temperate
+Aswan_1438,Egypt,24.5619,33.3473,Arid
+Lhasa_3573,China,28.532,90.5402,Arid
+Sydney_1881,Australia,-33.885,151.6106,Temperate
+Beijing_2760,China,39.6815,115.3029,Temperate
+São Paulo_3132,Brazil,-23.4413,-45.7598,Arid
+Ushuaia_6439,Argentina,-53.3715,-67.6052,Continental
+Ushuaia_2864,Argentina,-54.7152,-69.2164,Continental
+Moscow_3476,Russia,56.0473,36.2032,Continental
+São Paulo_3778,Brazil,-22.5273,-45.3688,Arid
+Ushuaia_8600,Argentina,-53.894,-68.9929,Continental
+Lhasa_5938,China,31.0236,90.2314,Temperate
+Sydney_1483,Australia,-34.4065,150.1741,Temperate
+Beijing_7896,China,39.605,115.2646,Temperate
+Alice Springs_7249,Australia,-25.0997,135.2051,Arid
+Yellowknife_7055,Canada,61.6751,-115.6268,Continental
+Chennai_9432,India,12.3042,80.3613,Tropical
+Yellowknife_6090,Canada,62.7267,-115.6381,Continental
+Sydney_5690,Australia,-34.0757,151.9148,Temperate
+Ushuaia_2344,Argentina,-53.8598,-66.9306,Continental
+Ushuaia_2911,Argentina,-55.1485,-68.7973,Continental
+Lhasa_9963,China,30.9677,90.8187,Temperate
+Alice Springs_3434,Australia,-24.1911,133.7778,Arid
+Ushuaia_2052,Argentina,-55.5158,-67.1579,Continental
+Sydney_9353,Australia,-34.8664,150.4171,Temperate
+Moscow_3984,Russia,55.7275,37.1167,Continental
+Manaus_3568,Brazil,-4.5684,-59.7881,Tropical
+Los Angeles_2498,USA,34.8654,-118.689,Temperate
+Yakutsk_1026,Russia,63.3882,128.2774,Continental
+Moscow_6138,Russia,56.8481,38.2546,Continental
+São Paulo_4521,Brazil,-24.4142,-45.5648,Arid
+Manaus_5000,Brazil,-1.9684,-60.9502,Tropical
+Sydney_1985,Australia,-33.408,150.1386,Temperate
+New York_1678,USA,41.5286,-74.7652,Temperate
+Yellowknife_7627,Canada,63.4984,-115.6349,Continental
+Yakutsk_5941,Russia,63.0547,128.4144,Continental
+Toronto_2381,Canada,44.3229,-78.3143,Temperate
+Oslo_4011,Norway,59.2738,11.231,Continental
+Buenos Aires_3813,Argentina,-35.7107,-56.9327,Temperate
+Sydney_4034,Australia,-35.1598,150.772,Temperate
+Alice Springs_7618,Australia,-24.0032,134.3137,Arid
+Toronto_3032,Canada,43.1489,-78.7516,Temperate
+Beijing_3145,China,38.7508,115.2084,Temperate
+Manaus_4354,Brazil,-2.3077,-58.9127,Tropical
+Tromsø_5655,Norway,70.9527,18.6864,Polar
+Chennai_1235,India,12.4263,80.2374,Tropical
+Cairo_3259,Egypt,29.388,32.6399,Arid
+Buenos Aires_7665,Argentina,-36.0361,-57.2871,Temperate
+Sydney_2724,Australia,-33.1281,151.0679,Temperate
+Yakutsk_4203,Russia,63.2516,129.1017,Continental
+Oslo_8239,Norway,58.6949,9.4756,Continental
+Tromsø_6023,Norway,70.4407,19.8747,Polar
+Chennai_8054,India,11.7436,80.0109,Tropical
+Moscow_2938,Russia,54.4801,36.5514,Continental
+São Paulo_2257,Brazil,-24.4002,-46.5346,Arid
+São Paulo_3446,Brazil,-23.9921,-46.1175,Arid
+Sydney_8439,Australia,-32.7776,150.7114,Temperate
+Yellowknife_3639,Canada,63.2628,-114.0543,Continental
+Ushuaia_3438,Argentina,-54.4942,-69.145,Continental
+Buenos Aires_6269,Argentina,-35.3911,-57.9327,Temperate
+Delhi_5768,India,29.8645,76.9207,Arid
+Manaus_4915,Brazil,-3.0529,-59.3408,Tropical
+Delhi_2136,India,29.2817,77.4211,Arid
+New York_4712,USA,42.0144,-72.9528,Temperate
+Alice Springs_2999,Australia,-22.3958,133.0645,Arid
+Moscow_6645,Russia,54.9243,37.3225,Continental
+Sydney_9668,Australia,-34.3963,150.8047,Temperate
+São Paulo_7540,Brazil,-22.8249,-46.4063,Arid
+Yellowknife_8115,Canada,63.2113,-114.0188,Continental
+Manaus_3324,Brazil,-4.3027,-61.3673,Tropical
+Buenos Aires_6751,Argentina,-33.4734,-57.9823,Temperate
+Sydney_8857,Australia,-34.5835,150.1045,Temperate
+Tromsø_4166,Norway,69.2749,19.477,Polar
+Cairo_2967,Egypt,30.8056,31.927,Temperate
+Lhasa_1668,China,28.6463,91.6156,Arid
+Yellowknife_9747,Canada,63.9025,-115.5239,Continental
+Lhasa_4375,China,29.9321,92.4825,Arid
+Chennai_6774,India,13.6049,80.7186,Tropical
+Cairo_3577,Egypt,31.5297,30.4505,Temperate
+Oslo_6162,Norway,61.311,9.6621,Continental
+Manaus_7217,Brazil,-2.1809,-58.7929,Tropical
+Los Angeles_1117,USA,35.0102,-119.4629,Temperate
+Delhi_5922,India,28.6707,78.379,Arid
+Toronto_7807,Canada,42.937,-78.9393,Temperate
+Tromsø_3430,Norway,71.1286,17.522,Polar
+Los Angeles_3786,USA,33.7074,-118.4418,Temperate
+Aswan_8483,Egypt,24.2082,32.4812,Arid
+Yakutsk_9918,Russia,61.8099,130.6457,Continental
+Toronto_7237,Canada,43.733,-80.3917,Temperate
+New York_1993,USA,40.7667,-72.8331,Temperate
+Yakutsk_2331,Russia,62.1411,128.3976,Continental
+Lhasa_1762,China,29.9812,90.2668,Arid
+Toronto_5779,Canada,42.1796,-78.3605,Temperate
+Ushuaia_9077,Argentina,-53.4939,-68.1267,Continental
+Yellowknife_7595,Canada,62.4097,-113.8488,Continental
+Tromsø_6282,Norway,70.4588,19.0649,Polar
+Moscow_3954,Russia,56.6854,38.3164,Continental
+Los Angeles_4026,USA,35.0628,-119.2755,Temperate
+Buenos Aires_6882,Argentina,-34.1889,-56.9291,Temperate
+Alice Springs_7182,Australia,-23.2177,132.4353,Arid
+Chennai_2163,India,11.6476,79.042,Tropical
+Tromsø_6052,Norway,69.318,19.2267,Polar
+Manaus_4961,Brazil,-2.5981,-60.857,Tropical
+Beijing_1896,China,40.8896,117.4321,Temperate
+Buenos Aires_8546,Argentina,-35.6994,-58.5463,Temperate
+Manaus_1487,Brazil,-2.8734,-59.3317,Tropical
+Aswan_3204,Egypt,25.1432,32.3567,Arid
+Sydney_7480,Australia,-34.7541,150.9202,Temperate
+Lhasa_6553,China,30.4368,92.466,Temperate
+São Paulo_7999,Brazil,-23.5783,-47.8443,Arid
+Aswan_5481,Egypt,24.8305,32.5097,Arid
+Cairo_1826,Egypt,31.4325,29.8989,Temperate
+Lhasa_6876,China,28.9387,90.1083,Arid
+Oslo_7024,Norway,59.5918,11.0638,Continental
+Moscow_1895,Russia,55.7582,38.5568,Continental
+Alice Springs_5179,Australia,-25.0952,133.7369,Arid
+Chennai_2958,India,14.186,81.4813,Tropical
+Toronto_5906,Canada,43.0757,-78.2685,Temperate
+Los Angeles_9689,USA,34.7196,-119.2104,Temperate
+New York_2840,USA,41.1992,-72.5675,Temperate
+São Paulo_9518,Brazil,-24.636,-46.2689,Arid
+Chennai_3981,India,11.8883,81.2472,Tropical
+São Paulo_8750,Brazil,-23.054,-46.8255,Arid
+Moscow_7026,Russia,54.9686,38.6546,Continental
+Toronto_7998,Canada,44.3046,-78.3386,Temperate
+Manaus_7658,Brazil,-2.7645,-58.6575,Tropical
+Delhi_1288,India,29.1703,76.3208,Arid
+Aswan_6407,Egypt,25.0317,34.043,Arid
+Lhasa_1694,China,28.4327,89.9329,Arid
+Lhasa_3474,China,29.0284,90.3277,Arid
+Manaus_8135,Brazil,-3.6652,-59.1258,Tropical
+Buenos Aires_6059,Argentina,-34.8392,-58.8045,Temperate
+Oslo_7641,Norway,58.9178,11.0561,Continental
+Manaus_7739,Brazil,-1.8085,-59.9742,Tropical
+Lhasa_2852,China,28.4829,90.4751,Arid
+Ushuaia_6695,Argentina,-54.8797,-68.2414,Continental
+Yakutsk_1350,Russia,63.3693,128.5953,Continental
+Los Angeles_2083,USA,33.6603,-119.2777,Temperate
+Alice Springs_7054,Australia,-24.9186,134.3392,Arid
+Los Angeles_9935,USA,34.6606,-119.5496,Temperate
+Cairo_7051,Egypt,30.6723,30.08,Temperate
+New York_8353,USA,40.0367,-73.1888,Temperate
+Tromsø_2961,Norway,68.3652,17.5717,Polar
+Lhasa_7234,China,29.0995,89.9531,Arid
+Alice Springs_4177,Australia,-23.6242,132.712,Arid
+Delhi_8023,India,28.158,78.4469,Arid
+Oslo_4763,Norway,59.7174,11.2678,Continental
+Sydney_4226,Australia,-32.4271,151.9064,Temperate
+Lhasa_1809,China,30.4396,90.4731,Temperate
+Yakutsk_8519,Russia,62.9616,128.8512,Continental
+Tromsø_3620,Norway,70.2801,17.9616,Polar
+Aswan_9801,Egypt,25.2741,33.2796,Arid
+Sydney_7063,Australia,-32.789,151.7439,Temperate
+Beijing_8445,China,39.8532,115.0669,Temperate
+Toronto_3085,Canada,43.515,-79.5186,Temperate
+Yakutsk_7178,Russia,62.3779,129.9966,Continental
+Buenos Aires_5472,Argentina,-35.6644,-58.2397,Temperate
+Moscow_4453,Russia,55.3672,38.8859,Continental
+Tromsø_4095,Norway,69.1688,19.5822,Polar
+Manaus_4159,Brazil,-1.8161,-60.0323,Tropical
+Toronto_8049,Canada,42.1783,-79.0883,Temperate
+Toronto_9668,Canada,42.6598,-80.5752,Temperate
+Oslo_3282,Norway,58.7759,10.7644,Continental
+Aswan_9268,Egypt,24.7726,34.0888,Arid
+Moscow_6501,Russia,55.0244,38.9055,Continental
+Toronto_6816,Canada,42.9309,-80.5017,Temperate
+Lhasa_5085,China,29.4231,90.5993,Arid
+Beijing_3210,China,38.4226,115.4615,Temperate
+Cairo_2502,Egypt,31.0401,31.6758,Temperate
+Buenos Aires_2259,Argentina,-35.2525,-59.1344,Temperate
+Aswan_9741,Egypt,25.4324,32.3962,Arid
+Buenos Aires_4285,Argentina,-34.9141,-57.7661,Temperate
+Ushuaia_4577,Argentina,-55.3765,-69.4208,Continental
+Aswan_9065,Egypt,22.9559,32.0583,Arid
+New York_4463,USA,39.6299,-72.5322,Temperate
+Cairo_1544,Egypt,30.6522,31.5273,Temperate
+Aswan_1313,Egypt,23.9395,33.3162,Arid
+Delhi_7131,India,28.8739,76.2114,Arid
+Buenos Aires_7965,Argentina,-34.5759,-57.7472,Temperate
+Ushuaia_8114,Argentina,-55.3743,-68.6136,Continental
+Moscow_8277,Russia,56.5821,36.6721,Continental
+Toronto_9230,Canada,43.8081,-78.199,Temperate
+Ushuaia_8759,Argentina,-54.9636,-67.2121,Continental
+Alice Springs_2684,Australia,-23.5247,133.3124,Arid
+Toronto_9433,Canada,43.9965,-79.5826,Temperate
+Toronto_7136,Canada,42.1702,-80.2949,Temperate
+Toronto_4988,Canada,44.2496,-79.3501,Temperate
+Buenos Aires_1741,Argentina,-34.9149,-57.1934,Temperate
+Moscow_7121,Russia,54.3219,36.6618,Continental
+Delhi_6265,India,27.77,77.2697,Arid
+São Paulo_4738,Brazil,-23.2634,-45.662,Arid
+Toronto_7859,Canada,42.1664,-80.8065,Temperate
+Lhasa_8422,China,28.8894,90.1625,Arid
+Yellowknife_5506,Canada,61.4399,-114.6676,Continental
+Yakutsk_8211,Russia,62.6398,128.633,Continental
+Aswan_9500,Egypt,22.982,34.2924,Arid
+Chennai_3158,India,11.6473,80.1996,Tropical
+Delhi_5404,India,29.4306,76.0087,Arid
+Manaus_5662,Brazil,-4.5271,-60.3794,Tropical
+New York_2856,USA,41.9964,-73.7626,Temperate
+Manaus_3109,Brazil,-2.2652,-61.4664,Tropical
+Moscow_3950,Russia,56.8539,36.6094,Continental
+Chennai_9071,India,14.292,80.8865,Tropical
+Oslo_3207,Norway,61.3533,10.8283,Continental
+Toronto_2861,Canada,42.1916,-78.1023,Temperate
+Yellowknife_5297,Canada,63.1772,-115.2788,Continental
+New York_9208,USA,41.2714,-73.5618,Temperate
+Manaus_4374,Brazil,-2.2525,-60.013,Tropical
+Cairo_6439,Egypt,29.9196,31.289,Arid
+Delhi_4037,India,27.4451,76.1964,Arid
+Cairo_9223,Egypt,28.5639,30.4295,Arid
+Cairo_2062,Egypt,31.4833,31.159,Temperate
+São Paulo_6924,Brazil,-22.205,-45.4538,Arid
+Beijing_6076,China,39.5128,117.3157,Temperate
+New York_7206,USA,40.4377,-72.9211,Temperate
+Alice Springs_9078,Australia,-24.6823,132.7486,Arid
+Chennai_3073,India,13.1841,79.9397,Tropical
+São Paulo_3190,Brazil,-24.2072,-46.226,Arid
+Yakutsk_9375,Russia,63.3683,129.5402,Continental
+Chennai_3970,India,14.343,81.3941,Tropical
+São Paulo_1491,Brazil,-24.7717,-48.0748,Arid
+Yakutsk_3037,Russia,61.1403,129.1503,Continental
+Beijing_6770,China,38.8799,115.1307,Temperate
+Oslo_8097,Norway,60.8175,11.8413,Continental
+Manaus_8255,Brazil,-2.3538,-59.1979,Tropical
+Cairo_7753,Egypt,31.544,32.319,Temperate
+Delhi_3222,India,28.6529,78.552,Arid
+Oslo_4214,Norway,60.1,9.8927,Continental
+Lhasa_5605,China,31.0589,90.9143,Temperate
+Lhasa_2988,China,30.8262,91.0232,Temperate
+Oslo_9620,Norway,58.7879,11.6309,Continental
+Sydney_7837,Australia,-33.828,152.6912,Temperate
+Aswan_7703,Egypt,23.072,32.4799,Arid
+Oslo_2144,Norway,60.2441,11.6334,Continental
+Cairo_2804,Egypt,31.4266,31.9142,Temperate
+Los Angeles_8702,USA,34.1995,-117.8563,Temperate
+Delhi_4090,India,27.1338,76.5452,Arid
+Ushuaia_6448,Argentina,-55.1129,-67.2754,Continental
+Aswan_3599,Egypt,23.7681,32.813,Arid
+New York_8511,USA,39.7291,-72.7422,Temperate
+Tromsø_7005,Norway,68.3257,18.4432,Polar
+Manaus_1473,Brazil,-2.0234,-60.5667,Tropical
+Manaus_2450,Brazil,-3.6924,-59.1221,Tropical
+Manaus_2146,Brazil,-3.5495,-60.7719,Tropical
+Manaus_3575,Brazil,-2.2776,-61.1299,Tropical
+Chennai_4835,India,11.6136,81.1761,Tropical
+Buenos Aires_3302,Argentina,-35.4586,-59.1645,Temperate
+Toronto_4600,Canada,43.5456,-80.2058,Temperate
+Beijing_5385,China,38.4704,116.162,Temperate
+Ushuaia_9702,Argentina,-54.709,-68.0071,Continental
+Buenos Aires_1263,Argentina,-35.1545,-56.938,Temperate
+Delhi_4926,India,29.7548,77.9204,Arid
+Lhasa_4354,China,30.8712,91.973,Temperate
+Manaus_9986,Brazil,-2.7013,-60.8778,Tropical
+Lhasa_5180,China,29.5768,91.6901,Arid
+Buenos Aires_2867,Argentina,-36.0509,-59.2122,Temperate
+Cairo_8029,Egypt,29.9347,31.4321,Arid
+Toronto_3847,Canada,42.6336,-78.9989,Temperate
+Lhasa_2603,China,30.3112,90.1982,Temperate
+Chennai_1410,India,14.2975,78.9023,Tropical
+Yellowknife_1334,Canada,62.7355,-113.9211,Continental
+Los Angeles_4039,USA,34.6315,-117.9258,Temperate
+Toronto_7181,Canada,45.0244,-77.9822,Temperate
+Ushuaia_3521,Argentina,-56.0498,-69.606,Continental
+Tromsø_4415,Norway,69.5182,19.5418,Polar
+Los Angeles_7038,USA,35.5092,-119.7241,Temperate
+Moscow_5543,Russia,55.7317,36.6917,Continental
+Los Angeles_7968,USA,33.9246,-118.6909,Temperate
+Ushuaia_7158,Argentina,-55.1961,-68.3366,Continental
+Delhi_3889,India,27.7897,76.2756,Arid
+Buenos Aires_6997,Argentina,-34.7305,-57.5198,Temperate
+Los Angeles_1688,USA,35.0531,-118.872,Temperate
+Delhi_9310,India,27.8286,76.5888,Arid
+Buenos Aires_6498,Argentina,-34.9576,-57.144,Temperate
+Delhi_6009,India,29.2557,77.267,Arid
+Lhasa_7616,China,28.9788,90.4848,Arid
+Los Angeles_4372,USA,33.6592,-118.8285,Temperate
+Aswan_2267,Egypt,25.3358,33.8535,Arid
+São Paulo_6736,Brazil,-24.0914,-45.9538,Arid
+Delhi_2833,India,28.0986,75.7604,Arid
+Ushuaia_1678,Argentina,-53.5599,-68.4707,Continental
+Tromsø_1085,Norway,70.9189,19.3882,Polar
+Beijing_9133,China,39.1951,115.5224,Temperate
+Ushuaia_8491,Argentina,-54.5465,-69.5572,Continental
+Yakutsk_2504,Russia,61.723,128.6147,Continental
+New York_9491,USA,41.8331,-75.1633,Temperate
+Sydney_3223,Australia,-33.2553,150.6608,Temperate
+São Paulo_6424,Brazil,-24.0498,-47.8146,Arid
+Oslo_6793,Norway,60.2807,9.7847,Continental
+Yakutsk_4967,Russia,62.1864,130.4486,Continental
+Chennai_9019,India,12.6267,81.2998,Tropical
+Alice Springs_1713,Australia,-24.4285,134.8285,Arid
+Ushuaia_2790,Argentina,-54.0681,-68.1308,Continental
+Aswan_8002,Egypt,24.5416,31.4597,Arid
+Lhasa_6753,China,29.3354,89.8548,Arid
+Aswan_9623,Egypt,24.3629,31.7623,Arid
+Beijing_9287,China,40.6873,115.5585,Temperate
+Cairo_9635,Egypt,31.5183,31.4905,Temperate
+Moscow_6466,Russia,55.5638,38.8302,Continental
+Toronto_5675,Canada,42.9264,-79.092,Temperate
+Los Angeles_9314,USA,32.9957,-117.6143,Temperate
+Chennai_2313,India,14.1609,80.1217,Tropical
+Moscow_7003,Russia,56.8114,36.7415,Continental
+Sydney_1498,Australia,-35.2649,150.4057,Temperate
+Delhi_6538,India,27.477,77.6491,Arid
+Chennai_3521,India,14.153,80.3354,Tropical
+Aswan_8542,Egypt,24.736,33.9853,Arid
+Buenos Aires_3036,Argentina,-35.5471,-59.7393,Temperate
+Manaus_3661,Brazil,-4.1685,-59.2477,Tropical
+Toronto_2451,Canada,44.5102,-78.502,Temperate
+Oslo_7872,Norway,59.2394,10.3089,Continental
+Oslo_1198,Norway,58.5129,11.6951,Continental
+São Paulo_4382,Brazil,-22.0589,-46.8643,Arid
+Toronto_5190,Canada,43.6239,-78.6576,Temperate
+Lhasa_4179,China,30.1032,89.7262,Temperate
+Yellowknife_9601,Canada,61.3806,-113.2654,Continental
+Manaus_9090,Brazil,-3.2671,-60.9089,Tropical
+Lhasa_9530,China,30.6581,91.4477,Temperate
+Yellowknife_8454,Canada,62.1068,-114.8906,Continental
+Tromsø_9436,Norway,70.6132,19.4159,Polar
+Ushuaia_3080,Argentina,-55.2649,-67.0572,Continental
+Ushuaia_8137,Argentina,-54.2436,-67.1011,Continental
+Beijing_5503,China,40.5333,117.2716,Temperate
+Los Angeles_3561,USA,33.8467,-117.8486,Temperate
+Beijing_9616,China,38.5558,115.7214,Temperate
+Beijing_1163,China,39.594,115.4956,Temperate
+Beijing_4034,China,39.7709,116.358,Temperate
+Yellowknife_5666,Canada,63.3316,-114.2338,Continental
+São Paulo_1477,Brazil,-24.2838,-47.376,Arid
+Aswan_3123,Egypt,24.3628,31.8638,Arid
+Moscow_2522,Russia,56.2671,36.6924,Continental
+Beijing_9857,China,38.766,115.9936,Temperate
+São Paulo_3816,Brazil,-24.1303,-46.2894,Arid
+New York_3623,USA,41.1062,-74.9219,Temperate
+Oslo_6779,Norway,58.4826,11.6445,Continental
+Ushuaia_9498,Argentina,-54.635,-67.3556,Continental
+Lhasa_3252,China,30.8057,90.1662,Temperate
+São Paulo_1071,Brazil,-22.5948,-45.9263,Arid
+Sydney_6236,Australia,-34.4027,150.3335,Temperate
+Buenos Aires_5435,Argentina,-33.478,-57.7583,Temperate
+Beijing_6577,China,40.1205,117.279,Temperate
+Beijing_6027,China,39.108,116.0588,Temperate
+São Paulo_1876,Brazil,-24.4433,-47.1435,Arid
+Chennai_2425,India,14.4263,81.3549,Tropical
+New York_5123,USA,41.2766,-74.5668,Temperate
+São Paulo_7718,Brazil,-24.923,-45.8357,Arid
+Ushuaia_4625,Argentina,-54.5012,-67.7394,Continental
+Buenos Aires_3701,Argentina,-34.2823,-58.2365,Temperate
+Manaus_5256,Brazil,-4.1702,-59.387,Tropical
+Delhi_1191,India,27.7701,77.695,Arid
+Cairo_2723,Egypt,28.9198,32.0665,Arid
+Los Angeles_2153,USA,35.1527,-119.6696,Temperate
+Buenos Aires_4966,Argentina,-35.927,-57.2304,Temperate
+Yakutsk_7155,Russia,61.8375,128.2547,Continental
+Sydney_9267,Australia,-33.1622,150.3477,Temperate
+Toronto_8395,Canada,43.2406,-78.1281,Temperate
+Oslo_7003,Norway,58.6163,9.2702,Continental
+Tromsø_6733,Norway,69.1725,17.6073,Polar
+Buenos Aires_7164,Argentina,-33.3782,-58.8346,Temperate
+São Paulo_8547,Brazil,-24.9678,-47.5331,Arid
+Tromsø_5670,Norway,70.6618,18.9239,Polar
+Oslo_8100,Norway,60.5344,10.762,Continental
+Oslo_6346,Norway,58.6616,10.2382,Continental
+Cairo_9318,Egypt,29.6942,32.0412,Arid
+Oslo_6876,Norway,60.7365,10.234,Continental
+Beijing_1570,China,40.9916,117.119,Temperate
+Yellowknife_3135,Canada,63.5056,-114.7661,Continental
+Cairo_8107,Egypt,30.5348,30.6241,Temperate
+Manaus_9145,Brazil,-3.1734,-59.6864,Tropical
+Manaus_8863,Brazil,-3.8458,-59.6152,Tropical
+Alice Springs_3178,Australia,-23.3608,135.2734,Arid
+Lhasa_5786,China,28.8154,90.6177,Arid
+Oslo_5337,Norway,59.6196,11.9167,Continental
+Beijing_9175,China,38.8692,115.9237,Temperate
+Alice Springs_5562,Australia,-23.4399,134.7432,Arid
+Sydney_5989,Australia,-33.974,150.6315,Temperate
+Chennai_5067,India,13.2878,81.6801,Tropical
+Cairo_7441,Egypt,31.0434,32.6813,Temperate
+Yellowknife_1416,Canada,63.743,-114.3174,Continental
+Buenos Aires_1010,Argentina,-35.2749,-58.1003,Temperate
+Cairo_7765,Egypt,30.4675,32.7053,Temperate
+Oslo_4470,Norway,58.9986,11.6506,Continental
+Buenos Aires_5185,Argentina,-34.3367,-59.5002,Temperate
+Lhasa_9119,China,30.9236,92.1497,Temperate
+Cairo_6837,Egypt,29.6832,29.9468,Arid
+Oslo_3656,Norway,58.9085,9.5011,Continental
+Sydney_7453,Australia,-33.0712,149.8504,Temperate
+Chennai_4131,India,14.3228,81.7433,Tropical
+Beijing_8545,China,40.8178,115.527,Temperate
+Los Angeles_1151,USA,34.2382,-117.1156,Temperate
+Toronto_6104,Canada,44.8055,-78.8998,Temperate
+Lhasa_1747,China,28.8188,90.3159,Arid
+Los Angeles_9982,USA,33.0921,-119.0057,Temperate
+New York_6338,USA,39.9153,-74.4576,Temperate
+Lhasa_3561,China,30.1383,90.4473,Temperate
+São Paulo_6718,Brazil,-24.4294,-46.4265,Arid
+Buenos Aires_7175,Argentina,-33.6956,-57.4755,Temperate
+Chennai_4492,India,13.708,81.3046,Tropical
+Manaus_6761,Brazil,-4.1624,-58.5287,Tropical
+Los Angeles_3040,USA,34.1544,-118.5863,Temperate
+Lhasa_9222,China,28.2568,90.724,Arid
+Ushuaia_2624,Argentina,-54.0109,-66.8361,Continental
+Manaus_4708,Brazil,-2.1404,-58.8943,Tropical
+São Paulo_1205,Brazil,-24.9655,-46.7476,Arid
+Delhi_1559,India,27.7402,78.6913,Arid
+Aswan_9847,Egypt,23.1133,33.6618,Arid
+Tromsø_1016,Norway,68.6695,18.8453,Polar
+Toronto_9093,Canada,42.2992,-79.4295,Temperate
+Moscow_4324,Russia,56.5386,36.701,Continental
+Manaus_5928,Brazil,-3.657,-59.0151,Tropical
+Tromsø_2248,Norway,70.6936,18.9735,Polar
+Moscow_3331,Russia,57.1299,37.1737,Continental
+Sydney_5504,Australia,-34.3637,152.2857,Temperate
+Yakutsk_6458,Russia,63.1278,129.0854,Continental
+Chennai_7201,India,11.8129,79.9335,Tropical
+New York_6442,USA,41.1018,-73.1695,Temperate
+Yakutsk_8176,Russia,62.3937,129.1004,Continental
+Manaus_5798,Brazil,-4.3885,-59.1115,Tropical
+Moscow_7323,Russia,56.3321,37.1349,Continental
+Alice Springs_9044,Australia,-23.6291,134.485,Arid
+Aswan_5247,Egypt,23.1106,32.1407,Arid
+Aswan_1447,Egypt,23.6695,32.6224,Arid
+Yakutsk_4144,Russia,63.1155,130.9753,Continental
+Cairo_9285,Egypt,28.9986,29.9971,Arid
+Sydney_1820,Australia,-33.3948,150.6285,Temperate
+Delhi_2278,India,29.2751,77.653,Arid
+Ushuaia_9288,Argentina,-55.7526,-68.944,Continental
+Oslo_9503,Norway,60.1504,11.4654,Continental
+Oslo_8538,Norway,60.3704,11.6602,Continental
+Beijing_9910,China,40.1965,117.1091,Temperate
+Aswan_5106,Egypt,22.991,34.333,Arid
+Moscow_9212,Russia,55.7973,38.7025,Continental
+São Paulo_6685,Brazil,-22.2809,-47.3517,Arid
+New York_4987,USA,40.4795,-74.1672,Temperate
+Yakutsk_6603,Russia,63.2368,130.2321,Continental
+Cairo_3827,Egypt,29.726,32.0552,Arid
+Los Angeles_7787,USA,33.6025,-118.9822,Temperate
+Yellowknife_6441,Canada,62.3427,-114.4148,Continental
+Moscow_5636,Russia,55.1418,37.3975,Continental
+Buenos Aires_2718,Argentina,-33.7475,-59.4234,Temperate
+Los Angeles_7536,USA,32.7337,-118.8502,Temperate
+Manaus_9853,Brazil,-3.6828,-58.9417,Tropical
+Manaus_9349,Brazil,-1.821,-58.7952,Tropical
+Toronto_3048,Canada,43.05,-80.084,Temperate
+Oslo_6946,Norway,60.366,11.5375,Continental
+Moscow_4750,Russia,56.1381,38.8642,Continental
+Tromsø_1759,Norway,68.9386,18.475,Polar
+Sydney_8825,Australia,-34.015,150.7467,Temperate
+Sydney_6480,Australia,-34.7344,151.3887,Temperate
+Oslo_5654,Norway,60.1248,9.5173,Continental
+Lhasa_6710,China,30.8079,92.3253,Temperate
+Ushuaia_7872,Argentina,-55.478,-69.6827,Continental
+Aswan_3829,Egypt,23.261,32.6961,Arid
+Los Angeles_6562,USA,34.3581,-118.1957,Temperate
+Alice Springs_6938,Australia,-22.7471,134.4124,Arid
+Lhasa_4874,China,28.564,90.1427,Arid
+New York_6414,USA,39.2657,-75.1178,Temperate
+New York_3298,USA,41.4203,-73.5268,Temperate
+Ushuaia_1013,Argentina,-55.6073,-67.7981,Continental
+New York_3208,USA,41.0077,-73.2722,Temperate
+Sydney_4358,Australia,-32.4474,150.5152,Temperate
+Beijing_8891,China,39.1105,116.6481,Temperate
+Sydney_8306,Australia,-33.0624,150.3113,Temperate
+Moscow_4352,Russia,54.258,38.007,Continental
+Aswan_9588,Egypt,24.2086,31.7253,Arid
+Alice Springs_5928,Australia,-23.8709,134.2133,Arid
+Aswan_5400,Egypt,23.7268,33.0621,Arid
+Beijing_2480,China,39.0606,116.8025,Temperate
+Tromsø_1716,Norway,69.8183,17.7364,Polar
+Tromsø_7052,Norway,69.6227,20.2928,Polar
+Aswan_2433,Egypt,25.2085,32.4807,Arid
+Los Angeles_9431,USA,33.0854,-119.6784,Temperate
+Los Angeles_4504,USA,35.0457,-116.8237,Temperate
+Tromsø_5119,Norway,68.4447,20.1885,Polar
+Cairo_9918,Egypt,29.0843,31.6093,Arid
+Lhasa_5340,China,29.7735,91.7731,Arid
+Lhasa_1515,China,28.4946,91.8635,Arid
+Sydney_8960,Australia,-32.714,149.9821,Temperate
+Cairo_1026,Egypt,30.7977,29.9583,Temperate
+Tromsø_4873,Norway,68.2903,17.6058,Polar
+Tromsø_6577,Norway,69.7164,19.8887,Polar
+Moscow_6503,Russia,55.5314,37.4167,Continental
+Delhi_9142,India,27.2602,78.1677,Arid
+Ushuaia_4416,Argentina,-55.4235,-69.3847,Continental
+Tromsø_6725,Norway,68.9832,20.3121,Polar
+Buenos Aires_5402,Argentina,-33.287,-58.987,Temperate
+Manaus_7913,Brazil,-3.5949,-59.7513,Tropical
+New York_6554,USA,39.6364,-74.6268,Temperate
+Beijing_7447,China,40.7281,114.9515,Temperate
+Cairo_9572,Egypt,29.3543,30.911,Arid
+Los Angeles_4622,USA,33.5518,-119.4998,Temperate
+New York_7194,USA,39.6145,-74.0558,Temperate
+Tromsø_4968,Norway,68.2838,18.8692,Polar
+Chennai_6226,India,13.5327,80.5919,Tropical
+Toronto_6901,Canada,44.55,-78.6358,Temperate
+Tromsø_8889,Norway,69.7242,19.9924,Polar
+Moscow_3708,Russia,54.6994,38.8196,Continental
+Alice Springs_8769,Australia,-22.438,133.3202,Arid
+Chennai_4425,India,13.2002,79.1413,Tropical
+Tromsø_1973,Norway,70.0091,20.1621,Polar
+Buenos Aires_1693,Argentina,-35.567,-57.6439,Temperate
+Yakutsk_4826,Russia,62.5515,128.211,Continental
+Sydney_5311,Australia,-35.0079,149.9769,Temperate
+Chennai_7213,India,13.2473,79.696,Tropical
+Chennai_2124,India,14.4888,79.6677,Tropical
+Beijing_5034,China,38.597,116.8181,Temperate
+Alice Springs_9964,Australia,-24.8816,134.5875,Arid
+Ushuaia_7320,Argentina,-54.0919,-67.9282,Continental
+Toronto_6088,Canada,44.2041,-78.1891,Temperate
+Ushuaia_2401,Argentina,-53.3967,-68.8022,Continental
+Toronto_7121,Canada,44.8937,-79.6732,Temperate
+Los Angeles_6759,USA,34.4084,-116.9109,Temperate
+Lhasa_9926,China,30.1877,90.0684,Temperate
+Delhi_8444,India,29.9646,76.0323,Arid
+Chennai_7125,India,12.5947,80.7704,Tropical
+Yellowknife_7257,Canada,62.8248,-113.7681,Continental
+Yellowknife_1965,Canada,63.5924,-113.8434,Continental
+Chennai_8031,India,11.638,81.3505,Tropical
+Los Angeles_4893,USA,34.5938,-116.9327,Temperate
+Lhasa_9141,China,30.3222,91.1129,Temperate
+Sydney_1559,Australia,-32.5084,150.7633,Temperate
+Buenos Aires_4367,Argentina,-33.3003,-59.0035,Temperate
+Toronto_7996,Canada,42.5679,-78.8341,Temperate
+Moscow_7858,Russia,56.6188,37.0113,Continental
+São Paulo_2406,Brazil,-24.728,-47.4695,Arid
+New York_9327,USA,41.8056,-74.7246,Temperate
+Toronto_3042,Canada,42.5958,-78.5986,Temperate
+Yakutsk_6832,Russia,63.3676,128.7751,Continental
+Delhi_7596,India,27.3012,76.5826,Arid
+Chennai_2998,India,13.0802,81.7526,Tropical
+New York_9261,USA,41.4652,-74.0571,Temperate
+Yellowknife_1684,Canada,62.0486,-114.2526,Continental
+Chennai_8018,India,13.9056,81.2911,Tropical
+Delhi_1000,India,30.002,78.2383,Temperate
+Cairo_6920,Egypt,29.927,31.7758,Arid
+Yakutsk_7772,Russia,61.441,129.6776,Continental
+Tromsø_5912,Norway,70.8921,19.3166,Polar
+Los Angeles_1505,USA,35.1965,-116.9361,Temperate
+Buenos Aires_2922,Argentina,-34.3891,-57.9649,Temperate
+Tromsø_4697,Norway,69.085,17.9427,Polar
+Manaus_8345,Brazil,-3.4141,-60.6835,Tropical
+São Paulo_7027,Brazil,-23.4849,-47.1066,Arid
+Aswan_7605,Egypt,24.363,31.9677,Arid
+Beijing_8623,China,41.0782,116.7133,Temperate
+Cairo_6919,Egypt,30.3119,32.3202,Temperate
+Yellowknife_1956,Canada,62.2646,-114.0425,Continental
+New York_4504,USA,40.9583,-72.8925,Temperate
+Cairo_8912,Egypt,30.6037,31.597,Temperate
+Tromsø_3551,Norway,68.8664,17.7574,Polar
+Delhi_4135,India,27.6906,76.8545,Arid
+Aswan_9861,Egypt,23.6433,32.7826,Arid
+Yellowknife_8448,Canada,62.8299,-115.72,Continental
+Toronto_2279,Canada,42.9441,-78.8892,Temperate
+New York_2029,USA,39.9262,-75.2147,Temperate
+Yakutsk_5286,Russia,62.4865,130.4589,Continental
+Delhi_2707,India,28.7824,77.8018,Arid
+Moscow_4313,Russia,56.2902,38.4957,Continental
+Oslo_6760,Norway,60.5688,11.2706,Continental
+Sydney_9793,Australia,-35.2641,150.9398,Temperate
+Alice Springs_5421,Australia,-23.2836,132.8707,Arid
+Los Angeles_4919,USA,33.4001,-119.465,Temperate
+Lhasa_2560,China,29.8493,91.8528,Arid
+Toronto_4141,Canada,44.2677,-78.2722,Temperate
+Oslo_6125,Norway,60.3157,9.3264,Continental
+Oslo_6448,Norway,59.7364,9.5805,Continental
+Toronto_1841,Canada,43.8567,-77.8761,Temperate
+Yellowknife_7499,Canada,60.9849,-113.5381,Continental
+Ushuaia_5286,Argentina,-54.9453,-67.2748,Continental
+Moscow_7644,Russia,54.2962,37.4776,Continental
+Aswan_8491,Egypt,25.1445,33.7135,Arid
+Alice Springs_3188,Australia,-22.2794,134.2015,Arid
+Sydney_8993,Australia,-32.9302,150.7046,Temperate
+Yellowknife_2762,Canada,61.3185,-113.6011,Continental
+Moscow_5055,Russia,55.5195,38.2411,Continental
+São Paulo_7149,Brazil,-24.1238,-47.8673,Arid
+Manaus_3766,Brazil,-2.3648,-59.1975,Tropical
+Yellowknife_6732,Canada,62.2294,-115.7586,Continental
+Alice Springs_9291,Australia,-22.763,134.3091,Arid
+Yakutsk_4054,Russia,60.9611,128.7633,Continental
+Lhasa_4235,China,28.9626,92.4112,Arid
+Beijing_5954,China,39.1813,117.1606,Temperate
+Manaus_5048,Brazil,-2.8345,-60.6932,Tropical
+Los Angeles_7583,USA,34.9812,-117.8495,Temperate
+Oslo_1780,Norway,61.0514,9.438,Continental
+Los Angeles_5663,USA,35.1606,-119.0228,Temperate
+Delhi_7662,India,29.2569,76.6671,Arid
+Yellowknife_3864,Canada,63.9232,-114.5338,Continental
+Oslo_6931,Norway,58.5168,12.0798,Continental
+São Paulo_4770,Brazil,-23.7172,-46.031,Arid
+Cairo_1875,Egypt,31.4213,32.3233,Temperate
+Oslo_7944,Norway,60.8351,12.1318,Continental
+Ushuaia_8613,Argentina,-55.1329,-69.1935,Continental
+Manaus_8911,Brazil,-2.3576,-60.6873,Tropical
+Chennai_9980,India,12.7565,81.1587,Tropical
+Oslo_5053,Norway,60.7855,10.8616,Continental
+Manaus_6499,Brazil,-4.5577,-60.7991,Tropical
+São Paulo_3897,Brazil,-23.2928,-45.3187,Arid
+Oslo_5987,Norway,60.8805,10.8308,Continental
+Alice Springs_7198,Australia,-24.9816,132.7746,Arid
+Manaus_9370,Brazil,-4.0712,-60.8793,Tropical
+Toronto_6918,Canada,43.5969,-79.8332,Temperate
+Delhi_6440,India,30.0205,76.4114,Temperate
+Toronto_5087,Canada,45.144,-78.8189,Temperate
+São Paulo_7930,Brazil,-22.7464,-46.8484,Arid
+Chennai_6991,India,12.6097,79.1336,Tropical
+Oslo_8466,Norway,59.9981,10.249,Continental
+Lhasa_6939,China,30.0613,92.2014,Temperate
+Yakutsk_7238,Russia,62.4478,130.6926,Continental
+Alice Springs_2530,Australia,-24.1359,133.7017,Arid
+Yellowknife_8727,Canada,63.7054,-113.1206,Continental
+São Paulo_7077,Brazil,-22.3319,-45.9703,Arid
+Aswan_4756,Egypt,23.0694,33.6553,Arid
+Beijing_7810,China,39.2908,115.6311,Temperate
+Lhasa_7072,China,28.5565,90.0921,Arid
+Sydney_4845,Australia,-32.8928,150.1707,Temperate
+Tromsø_2257,Norway,69.6995,19.6062,Polar
+Yakutsk_8169,Russia,61.4234,128.2939,Continental
+Aswan_8496,Egypt,24.2952,34.368,Arid
+Alice Springs_6282,Australia,-23.6179,134.0644,Arid
+Cairo_2364,Egypt,31.0782,30.1789,Temperate
+Toronto_1921,Canada,42.6251,-79.2436,Temperate
+Beijing_4636,China,40.869,115.8589,Temperate
+Buenos Aires_8083,Argentina,-34.4454,-58.0264,Temperate
+New York_5016,USA,41.4627,-75.4362,Temperate
+Cairo_3004,Egypt,29.9634,31.1203,Arid
+Cairo_8433,Egypt,31.189,32.6677,Temperate
+Aswan_2484,Egypt,24.7597,33.8389,Arid
+Alice Springs_9317,Australia,-22.999,133.4514,Arid
+Manaus_7267,Brazil,-2.6119,-61.0723,Tropical
+Yellowknife_4309,Canada,62.343,-115.1497,Continental
+Yakutsk_8001,Russia,62.0338,129.6941,Continental
+Ushuaia_7682,Argentina,-55.6627,-68.1237,Continental
+Oslo_5931,Norway,60.7809,9.5569,Continental
+Alice Springs_3580,Australia,-24.6522,132.8851,Arid
+Aswan_1498,Egypt,23.7815,31.9476,Arid
+Lhasa_6616,China,28.4256,91.6148,Arid
+Yakutsk_1880,Russia,60.9729,131.1454,Continental
+Buenos Aires_3434,Argentina,-34.491,-59.3674,Temperate
+Manaus_2241,Brazil,-2.6172,-59.9251,Tropical
+São Paulo_3023,Brazil,-22.6743,-45.9494,Arid
+Moscow_1780,Russia,57.2443,38.1116,Continental
+Manaus_2749,Brazil,-2.9656,-60.4319,Tropical
+Aswan_3919,Egypt,23.3686,33.1687,Arid
+Chennai_2356,India,13.1734,80.58,Tropical
+New York_6375,USA,40.2833,-74.9379,Temperate
+Los Angeles_5476,USA,33.2464,-119.2567,Temperate
+Aswan_8542,Egypt,23.9468,33.9655,Arid
+Oslo_5631,Norway,59.8588,10.4213,Continental
+New York_3538,USA,40.0348,-73.9731,Temperate
+Yellowknife_1584,Canada,63.3505,-114.2942,Continental
+Ushuaia_7252,Argentina,-56.1647,-68.634,Continental
+Sydney_7274,Australia,-32.5084,151.3641,Temperate
+Los Angeles_6291,USA,32.9575,-118.9361,Temperate
+Beijing_3698,China,40.3725,116.105,Temperate
+Chennai_6379,India,14.2731,79.5979,Tropical
+Delhi_8537,India,28.5984,78.1803,Arid
+Tromsø_8849,Norway,69.2293,18.3226,Polar
+Toronto_8004,Canada,42.8279,-78.4285,Temperate
+Aswan_6655,Egypt,24.5389,33.9565,Arid
+Chennai_5881,India,14.3208,81.1184,Tropical
+Yellowknife_5997,Canada,63.3043,-113.4082,Continental
+Tromsø_3198,Norway,69.4375,18.9194,Polar
+Lhasa_3721,China,28.9991,92.3251,Arid
+Los Angeles_3828,USA,33.2516,-118.3525,Temperate
+Cairo_6007,Egypt,28.6967,29.8704,Arid
+Yellowknife_6997,Canada,61.5766,-114.0161,Continental
+Moscow_6396,Russia,54.8785,36.7986,Continental
+Buenos Aires_6323,Argentina,-34.7518,-59.5816,Temperate
+Yellowknife_9581,Canada,61.0174,-114.5454,Continental
+Ushuaia_4476,Argentina,-55.4597,-66.984,Continental
+Los Angeles_7843,USA,33.6235,-119.0224,Temperate
+Chennai_6745,India,11.7177,81.5615,Tropical
+New York_7126,USA,40.6227,-74.2702,Temperate
+Tromsø_9125,Norway,69.444,18.1602,Polar
+Delhi_1381,India,27.5656,77.6361,Arid
+São Paulo_2053,Brazil,-23.5377,-45.8142,Arid
+Tromsø_9152,Norway,70.1481,19.2863,Polar
+Lhasa_4515,China,28.3407,92.1607,Arid
+Beijing_8383,China,40.1178,116.1705,Temperate
+Yakutsk_2712,Russia,62.9412,130.6124,Continental
+São Paulo_9459,Brazil,-24.3008,-45.8486,Arid
+Delhi_3578,India,28.0936,76.3585,Arid
+New York_3887,USA,40.7081,-74.3762,Temperate
+Toronto_3730,Canada,44.727,-80.6039,Temperate
+Moscow_5164,Russia,56.1224,37.4844,Continental
+Los Angeles_2146,USA,33.5929,-117.1183,Temperate
+Cairo_8800,Egypt,29.9736,30.9392,Arid
+Sydney_6779,Australia,-32.5558,150.4086,Temperate
+Cairo_6862,Egypt,29.5777,29.8469,Arid
+Toronto_3367,Canada,43.2044,-78.5834,Temperate
+Yakutsk_7725,Russia,63.0885,128.9186,Continental
+Manaus_1453,Brazil,-2.1083,-60.951,Tropical
+Moscow_4592,Russia,56.126,36.8039,Continental
+Los Angeles_6109,USA,32.742,-118.2221,Temperate
+Buenos Aires_9595,Argentina,-33.854,-57.4388,Temperate
+Toronto_4972,Canada,43.8337,-79.122,Temperate
+Yellowknife_4735,Canada,61.4224,-113.2105,Continental
+Chennai_1453,India,14.103,79.227,Tropical
+Moscow_2850,Russia,56.244,37.4769,Continental
+Buenos Aires_9261,Argentina,-35.2311,-57.1359,Temperate
+São Paulo_5268,Brazil,-23.1668,-48.057,Arid
+Toronto_6393,Canada,44.4666,-80.2695,Temperate
+Tromsø_4728,Norway,68.8332,19.1099,Polar
+Aswan_3768,Egypt,23.6916,31.6754,Arid
+Tromsø_1135,Norway,71.1293,20.0826,Polar
+Lhasa_5102,China,30.4133,91.5765,Temperate
+Yellowknife_5664,Canada,63.5164,-115.8492,Continental
+Sydney_1315,Australia,-35.2453,151.8134,Temperate
+Oslo_2490,Norway,58.8027,9.9557,Continental
+Sydney_5022,Australia,-34.8049,150.543,Temperate
+Cairo_6727,Egypt,30.2921,31.4942,Temperate
+Lhasa_3701,China,30.0871,90.803,Temperate
+Toronto_3111,Canada,43.4881,-79.6825,Temperate
+Ushuaia_6487,Argentina,-55.5236,-67.096,Continental
+Yellowknife_2768,Canada,62.2521,-115.0068,Continental
+Delhi_7178,India,27.5177,78.284,Arid
+Lhasa_7515,China,28.8784,91.9478,Arid
+Yellowknife_2614,Canada,62.6187,-113.6479,Continental
+Lhasa_9925,China,30.4016,91.3681,Temperate
+Yakutsk_7805,Russia,63.1123,131.1391,Continental
+Aswan_7389,Egypt,22.8042,31.8937,Arid
+Chennai_8639,India,13.5091,80.7294,Tropical
+Toronto_3978,Canada,42.7562,-80.791,Temperate
+Chennai_8600,India,14.2348,80.249,Tropical
+Beijing_6560,China,41.0478,115.2422,Temperate
+Delhi_9025,India,29.628,77.6947,Arid
+Yellowknife_8898,Canada,62.6668,-113.3072,Continental
+Yellowknife_9765,Canada,62.1739,-112.9049,Continental
+Buenos Aires_4825,Argentina,-35.2171,-58.257,Temperate
+Aswan_8413,Egypt,24.1402,33.782,Arid
+Ushuaia_2529,Argentina,-55.3668,-68.0786,Continental
+Toronto_6499,Canada,44.1304,-78.7516,Temperate
+São Paulo_8423,Brazil,-22.3922,-45.4861,Arid
+Aswan_2707,Egypt,23.7143,33.3142,Arid
+Tromsø_5080,Norway,70.9623,18.5317,Polar
+Tromsø_9301,Norway,68.4617,19.6084,Polar
+New York_1031,USA,40.8018,-73.3853,Temperate
+Beijing_1204,China,39.1886,117.3189,Temperate
+New York_2955,USA,41.9459,-73.9433,Temperate
+Moscow_4845,Russia,56.3058,37.9502,Continental
+São Paulo_8450,Brazil,-22.0569,-47.6894,Arid
+Manaus_6649,Brazil,-2.4489,-60.1899,Tropical
+Aswan_1117,Egypt,24.9361,33.1686,Arid
+Yellowknife_3893,Canada,61.8167,-114.6126,Continental
+Manaus_2761,Brazil,-2.2784,-59.769,Tropical
+Alice Springs_8769,Australia,-23.9216,135.2929,Arid
+Tromsø_4510,Norway,68.9918,19.6991,Polar
+Chennai_8289,India,13.9912,79.2868,Tropical
+Alice Springs_3005,Australia,-24.9954,132.7074,Arid
+Chennai_6531,India,13.9638,80.3105,Tropical
+Cairo_7554,Egypt,30.9092,32.2351,Temperate
+Oslo_9170,Norway,58.9593,9.7664,Continental
+Aswan_6465,Egypt,22.6715,32.9746,Arid
+Manaus_9700,Brazil,-1.9203,-60.0083,Tropical
+Lhasa_4472,China,30.6199,92.6645,Temperate
+São Paulo_5248,Brazil,-24.0505,-46.6671,Arid
+Tromsø_4862,Norway,69.4798,20.3773,Polar
+New York_4947,USA,41.5478,-74.7083,Temperate
+Ushuaia_7002,Argentina,-55.5936,-69.5948,Continental
+Sydney_2815,Australia,-33.9339,151.0549,Temperate
+Cairo_5562,Egypt,29.4188,31.7487,Arid
+Yakutsk_7310,Russia,62.3091,130.6484,Continental
+Aswan_7371,Egypt,22.7869,34.0778,Arid
+Cairo_8284,Egypt,31.2018,30.6693,Temperate
+Manaus_5565,Brazil,-3.4742,-61.1529,Tropical
+Cairo_6132,Egypt,29.8756,31.8637,Arid
+Manaus_1018,Brazil,-3.8259,-61.2356,Tropical
+São Paulo_2206,Brazil,-23.7464,-45.6527,Arid
+São Paulo_2505,Brazil,-24.923,-45.9283,Arid
+Los Angeles_4383,USA,35.3051,-117.9633,Temperate
+New York_3113,USA,41.7057,-74.6536,Temperate
+Aswan_9669,Egypt,25.0026,33.7947,Arid
+Sydney_6677,Australia,-32.8793,150.4038,Temperate
+Moscow_7967,Russia,56.3291,37.6037,Continental
+Chennai_4108,India,12.0019,81.304,Tropical
+Cairo_2074,Egypt,30.5629,32.5741,Temperate
+Los Angeles_1831,USA,34.8145,-117.4243,Temperate
+Yakutsk_6651,Russia,62.0407,129.8017,Continental
+Moscow_9015,Russia,55.876,37.0168,Continental
+Cairo_7594,Egypt,30.9875,32.7006,Temperate
+Los Angeles_9395,USA,35.2287,-119.5641,Temperate
+Lhasa_4673,China,30.0155,89.9173,Temperate
+Tromsø_8389,Norway,68.3636,17.7044,Polar
+Aswan_1333,Egypt,24.8547,34.3898,Arid
+Ushuaia_9577,Argentina,-56.0459,-69.3408,Continental
+Lhasa_3527,China,30.187,90.661,Temperate
+New York_3046,USA,40.899,-74.0351,Temperate
+Sydney_2215,Australia,-33.4686,149.9966,Temperate
+Alice Springs_4960,Australia,-23.4743,133.3741,Arid
+Toronto_1275,Canada,42.5424,-80.4966,Temperate
+Lhasa_3944,China,29.045,91.6864,Arid
+Oslo_2321,Norway,58.595,10.1132,Continental
+Los Angeles_7374,USA,34.5954,-119.0465,Temperate
+Lhasa_8653,China,30.1422,90.3566,Temperate
+Chennai_1970,India,11.8571,79.2202,Tropical
+Los Angeles_5382,USA,33.6759,-117.2688,Temperate
+Oslo_1572,Norway,58.8572,11.3225,Continental
+Sydney_2335,Australia,-34.7358,150.8433,Temperate
+Sydney_2243,Australia,-33.7774,151.6041,Temperate
+Alice Springs_3001,Australia,-24.6146,135.127,Arid
+Moscow_8860,Russia,54.6164,37.2493,Continental
+Los Angeles_5240,USA,33.0984,-118.8002,Temperate
+Aswan_9296,Egypt,24.7378,34.1864,Arid
+Tromsø_5066,Norway,69.0496,18.4751,Polar
+New York_7964,USA,40.4909,-75.1558,Temperate
+Yellowknife_3857,Canada,61.8025,-113.1007,Continental
+Manaus_1612,Brazil,-4.4748,-58.9557,Tropical
+Beijing_1300,China,40.625,117.7216,Temperate
+Sydney_2625,Australia,-32.5374,151.5152,Temperate
+Cairo_7702,Egypt,31.1126,31.8792,Temperate
+Moscow_2507,Russia,54.3304,38.241,Continental
+Aswan_1276,Egypt,22.5933,32.753,Arid
+Lhasa_8429,China,31.1271,92.4286,Temperate
+Buenos Aires_3088,Argentina,-35.1442,-58.0697,Temperate
+Beijing_3683,China,39.4196,116.2602,Temperate
+Yellowknife_8749,Canada,62.7021,-113.8489,Continental
+Beijing_3504,China,39.8163,115.0671,Temperate
+Yellowknife_6741,Canada,62.7395,-113.7129,Continental
+Buenos Aires_3740,Argentina,-34.2036,-58.8126,Temperate
+New York_4449,USA,41.7328,-72.7258,Temperate
+Ushuaia_6550,Argentina,-55.7939,-67.6307,Continental
+Lhasa_7335,China,30.7842,90.617,Temperate
+Cairo_4053,Egypt,28.8426,29.9139,Arid
+Sydney_6094,Australia,-33.7212,152.3306,Temperate
+Delhi_4729,India,28.5257,77.9519,Arid
+Aswan_8796,Egypt,23.6927,33.3065,Arid
+Moscow_6003,Russia,55.6245,36.391,Continental
+Chennai_2503,India,13.3574,80.0419,Tropical
+Yellowknife_8443,Canada,62.4865,-113.7128,Continental
+Buenos Aires_7270,Argentina,-36.091,-59.1064,Temperate
+Yakutsk_1918,Russia,62.5613,129.4402,Continental
+Buenos Aires_9899,Argentina,-34.69,-58.76,Temperate
+Moscow_3175,Russia,55.6179,38.3498,Continental
+Chennai_1318,India,12.9451,80.1563,Tropical
+Los Angeles_5851,USA,34.0585,-118.1283,Temperate
+São Paulo_2210,Brazil,-22.1844,-46.3232,Arid
+Delhi_6346,India,29.6124,76.7465,Arid
+New York_3775,USA,41.3546,-73.8537,Temperate
+Sydney_9722,Australia,-32.6961,152.1324,Temperate
+Chennai_3568,India,13.6907,81.0468,Tropical
+Oslo_6667,Norway,58.8373,10.6722,Continental
+Aswan_1712,Egypt,24.2405,32.5657,Arid
+Tromsø_7514,Norway,68.2913,18.5293,Polar
+Manaus_9437,Brazil,-3.4353,-60.8933,Tropical
+São Paulo_3120,Brazil,-23.1268,-45.8868,Arid
+Cairo_7978,Egypt,31.0379,30.7105,Temperate
+Los Angeles_6237,USA,33.7662,-119.6704,Temperate
+Yakutsk_7367,Russia,62.0919,129.8351,Continental
+Alice Springs_9123,Australia,-22.2429,133.347,Arid
+Sydney_7941,Australia,-33.9765,152.0124,Temperate
+Los Angeles_7021,USA,34.5086,-119.5539,Temperate
+Lhasa_1324,China,29.2409,92.1933,Arid
+Ushuaia_6773,Argentina,-55.2494,-67.9711,Continental
+Sydney_4085,Australia,-32.614,150.9612,Temperate
+Yellowknife_9434,Canada,61.4776,-113.0571,Continental
+Delhi_6112,India,28.4192,76.8565,Arid
+Aswan_6129,Egypt,24.7545,33.3331,Arid
+Buenos Aires_4022,Argentina,-33.7603,-57.1866,Temperate
+Sydney_5047,Australia,-34.826,149.7302,Temperate
+Aswan_6324,Egypt,23.0708,33.5105,Arid
+Delhi_3237,India,28.5269,78.4983,Arid
+Alice Springs_5851,Australia,-22.3341,134.8991,Arid
+Toronto_6670,Canada,44.036,-79.01,Temperate
+Cairo_6035,Egypt,30.6728,30.0865,Temperate
+Manaus_6649,Brazil,-4.371,-59.6583,Tropical
+Chennai_4094,India,14.5542,79.2249,Tropical
+Delhi_8725,India,29.0224,77.4561,Arid
+Beijing_8502,China,38.6478,115.9402,Temperate
+Cairo_3339,Egypt,30.6879,30.2418,Temperate
+Los Angeles_5266,USA,34.6251,-117.4944,Temperate
+Delhi_2671,India,27.8281,77.6894,Arid
+Yakutsk_8024,Russia,61.8471,130.4321,Continental
+Yellowknife_3440,Canada,60.9861,-113.7929,Continental
+Alice Springs_5744,Australia,-24.0674,133.681,Arid
+Beijing_8861,China,40.5154,116.5285,Temperate
+Oslo_4308,Norway,59.5324,11.7186,Continental
+Sydney_7906,Australia,-35.3533,150.6714,Temperate
+Sydney_5109,Australia,-33.1477,150.8684,Temperate
+Cairo_1737,Egypt,30.6137,30.9206,Temperate
+Alice Springs_7947,Australia,-22.509,133.8236,Arid
+Yellowknife_6566,Canada,63.2028,-115.672,Continental
+New York_3586,USA,40.8853,-74.8533,Temperate
+Tromsø_5461,Norway,69.2645,20.1799,Polar
+Ushuaia_8288,Argentina,-55.6645,-68.6009,Continental
+Moscow_8128,Russia,56.2425,36.1749,Continental
+Tromsø_5268,Norway,70.1524,18.0672,Polar
+Delhi_5877,India,29.0409,76.6076,Arid
+Beijing_6823,China,38.9547,117.8238,Temperate
+Moscow_5316,Russia,54.8684,38.4873,Continental
+Sydney_3905,Australia,-33.8133,150.9709,Temperate
+Yellowknife_8442,Canada,61.0639,-113.4921,Continental
+Beijing_7145,China,39.6992,115.7982,Temperate
+Los Angeles_1778,USA,33.6248,-118.6115,Temperate
+Toronto_1943,Canada,43.9973,-79.0535,Temperate
+Delhi_5025,India,28.5913,78.0224,Arid
+Moscow_2516,Russia,55.1384,37.1245,Continental
+Manaus_5293,Brazil,-1.9532,-60.8847,Tropical
+Beijing_7753,China,39.656,117.3132,Temperate
+Chennai_9377,India,12.536,78.7709,Tropical

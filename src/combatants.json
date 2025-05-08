@@ -1,0 +1,30 @@
+{
+  "Man": {
+    "hp": 100,
+    "str_": 10,
+    "spd": 10,
+    "def": 8,
+    "base_damage": 5,
+    "crit_chance": 5,
+    "endurance": 14,
+    "dexterity": 12,
+    "int_abstract": 12,
+    "int_environmental": 10,
+    "pain_tolerance": 6,
+    "behavior_flags": ["cooperative", "tactical"]
+  },
+  "Gorilla": {
+    "hp": 250,
+    "str_": 30,
+    "spd": 12,
+    "def": 20,
+    "base_damage": 20,
+    "crit_chance": 10,
+    "endurance": 6,
+    "dexterity": 6,
+    "int_abstract": 6,
+    "int_environmental": 10,
+    "pain_tolerance": 10,
+    "behavior_flags": ["aggressive", "territorial"]
+  }
+} 

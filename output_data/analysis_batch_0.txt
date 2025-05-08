@@ -1,0 +1,34 @@
+== Analysis Summary ==
+Total Battles: 100000
+
+Wins:
+- Group: 1.0%
+- Solo: 99.0%
+
+Average Group Casualties: 4.1
+Average Rounds: 38.5
+
+Climate Breakdown:
+- Arid: 24.2%
+- Tropical: 10.8%
+- Temperate: 36.2%
+- Continental: 23.8%
+- Polar: 5.0%
+
+Weather Breakdown:
+- Snow: 7.3%
+- Overcast: 6.0%
+- Humid: 2.7%
+- Cloudy: 9.2%
+- Clear: 25.0%
+- Rain: 17.5%
+- Hot: 6.1%
+- Dusty: 5.9%
+- Freezing Fog: 1.3%
+- Windy: 15.0%
+- Blizzard: 1.3%
+- Storm: 2.8%
+
+Day/Night:
+- Day: 50.1%
+- Night: 49.9%
